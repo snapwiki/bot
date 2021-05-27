@@ -1,6 +1,5 @@
 {
   "name": "snapwikibot",
-  "version": "1.0.0",
   "description": "A Discord bot for the Snap! Wiki Discord server",
   "author": "R4356th",
   "main": "bot.js",
