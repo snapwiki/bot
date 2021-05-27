@@ -1,0 +1,26 @@
+{
+  "name": "snapwikibot",
+  "description": "A Discord bot for the Snap! Wiki Discord server",
+  "author": "R4356th",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R4356th/minhtml.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "discord",
+    "robotics",
+    "discord bot"
+  ],
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "private": "true"
+}
