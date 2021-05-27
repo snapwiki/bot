@@ -5,7 +5,7 @@ bot.on( 'ready' , () => {
   console.log( `Logged in as ${bot.user.tag}!` );
 });
 
-bot.on('message', msg => {
+bot.on( 'message', msg => {
     if ( msg.content === '/info' ) {
       msg.react('775070954954162197');
       msg.reply('this is the official Snap*!* Wiki Discord server. To learn about Snap*!* Wiki, please visit https://snapwiki.miraheze.org.');
